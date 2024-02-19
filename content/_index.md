@@ -35,7 +35,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: ESRS_dim.webp
           filters:
-            brightness: 1
+            brightness: 0.7
   - block: stats
     content:
       items:
