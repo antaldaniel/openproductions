@@ -16,5 +16,8 @@ main:
     weight: 40
     hasChildren: true
   - parent: Resources
+    name: Methodology
+    url: "https://reprex.nl/project/openproductions/"
+  - parent: Resources
     name: Blog
     url: blog/

@@ -6,16 +6,16 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: green
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'OpenProductions Kft and Reprex BV'
+    description: 'Trustworthy AI to build ESG reports from your financial bookkeeping.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,18 +36,18 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "OpenProduction_logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Get in touch"
+      url: "https://reprex.nl/contact/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} OpenProductions Kft, Reprex B.V.'
 
 # Localization
 locale:
